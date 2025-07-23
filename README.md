@@ -58,6 +58,10 @@ All queries are run on the following SQL tables:
 - Examines statistical relationship between FG% and team success.
 - **Key Insight**: A correlation of 0.62 suggests that better shooting teams tend to win more, though other factors still play significant roles.
 
+## Tableau Dashboard
+
+[**View Interactive Dashboard on Tableau Public**](https://public.tableau.com/app/profile/andy.nguyen4739/viz/NBADashboardProject_17532232901420/NBADashboard)  
+
 ## Tools Used
 
 - **SQL Server**: All queries written and tested in SQL Server Management Studio (SSMS).
